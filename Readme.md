@@ -27,7 +27,7 @@
 Python3 peab olema arvutisse paigaldatud
     Python libary 'requests' peab olema paigaldatud
 
-1. Lae alla fail nimega "kurssLog.rar" lehe küljelt "[https://github.com/BOH1CA/kurssLog/blob/main/kurssLog.py(https://github.com/BOH1CA/kurssLog/blob/main/kurssLog.py)](https://github.com/BOH1CA/kurssLog/blob/main/kurssLog.py)" vajutades nupule "Download raw file"
+1. Lae alla fail nimega "kurssLog.rar" lehe küljelt "[https://github.com/BOH1CA/kurssLog/blob/main/kurssLog.py](https://github.com/BOH1CA/kurssLog/blob/main/kurssLog.py)(https://github.com/BOH1CA/kurssLog/blob/main/kurssLog.py)" vajutades nupule "Download raw file"
 2. Paki lahti fail nimega "kurssLogpy.rar"
 3. Ava konsool ja liigu kausta kuhu sai lahti pakitud "kurssLogpy.rar"
 4. Sisesta konsooli käsk: "python kurssLog.py" ja vajuta Enter
