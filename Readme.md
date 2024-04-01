@@ -4,7 +4,7 @@
 
 ## Kirjeldus
 - **Programeerimis Keel:** Python
-kurssLog.py on script mis: 
+0. kurssLog.py on script mis: 
 1. laeb alla xml faili kindlalt URL-ilt
 2. kontrollib kas failis olev NOK kurss on kõrgem kui 9.00€
 3. Juhul kui kurss on kõrgem avab või loob faili "kurss.txt" kaustas "C:\kurss"
